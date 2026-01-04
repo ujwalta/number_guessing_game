@@ -41,7 +41,7 @@ The game can be restarted anytime using the **Restart Game** button.
 ## 📂 Project Structure
 
 ```
-├── number_guessing.py
+├── guessing_game.py
 
 └── README.md
 ```
